@@ -1,0 +1,126 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.head {
+    background-color: rgba(49, 131, 255, 0.781);
+    color: rgba(255, 255, 255, 0.877);
+    height: 90px;
+    width: 100%;
+    position: fixed;
+}
+
+.head h1 {
+    top: 0;
+    text-align: center;
+    line-height: 90px;
+}
+
+.body {
+    padding: 40px;
+    background-image: url(back.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2000px;
+    height: 110vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.body {
+    color: rgb(68, 68, 68);
+}
+
+.body p1 {
+    font-size: 35px;
+    
+}
+
+.body p2 {
+    padding: 10px;
+    font-size: 25px;
+}
+
+.body p3 {
+    font-size: 15px;
+}
+
+.body a {
+    margin: 15px;
+    font-size: 15px;
+    color: rgb(228, 228, 228);
+    text-decoration: none;
+    border: 1px solid rgb(39, 132, 255);
+    padding: 10px 20px;
+    border-radius: 100px;
+    background-color: rgb(39, 132, 255);
+}
+
+.body a:hover {
+    background-color: rgb(31, 99, 189);
+    border-color: rgb(31, 99, 189);
+    color: rgb(204, 204, 204);
+}
+
+.blue {
+    color: rgb(78, 161, 255);
+}
+
+.end {
+    background-color: rgba(49, 131, 255, 0.781);
+    color: rgba(255, 255, 255, 0.877);
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+.body2 {
+    padding: 40px;
+    background-image: url(back.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2000px;
+    height: 110vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.body2 {
+    color: rgb(68, 68, 68);
+}
+
+.body2 p4 {
+    font-size: 35px;
+    
+}
+
+.body2 p5 {
+    padding: 10px;
+    font-size: 25px;
+}
+
+.body2 p6 {
+    font-size: 15px;
+}
+
+.body2 a {
+    margin: 15px;
+    font-size: 15px;
+    color: rgb(228, 228, 228);
+    text-decoration: none;
+    border: 1px solid rgb(39, 132, 255);
+    padding: 10px 20px;
+    border-radius: 100px;
+    background-color: rgb(39, 132, 255);
+}
+
+.body2 a:hover {
+    background-color: rgb(31, 99, 189);
+    border-color: rgb(31, 99, 189);
+    color: rgb(204, 204, 204);
+}
